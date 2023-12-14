@@ -9,7 +9,7 @@ async function getUsers() {
 }
 
 function createCard(user) {
-  row.innerHTML += `  <div class="wrapper flex--">
+  row.innerHTML += `  <div class="wrapper flex-- ">
   <span class="tilt-orientation--"></span>
 
   <div class="ui-card-2 ">
